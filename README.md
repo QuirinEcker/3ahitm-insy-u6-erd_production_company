@@ -2,7 +2,7 @@
 
 
 ## Martin Notation
-![](/Users/quirin/Documents/3AHITM/Informationssysteme/Uebungen/ERD06/erd06.png)
+![](./erd06.png)
 
 ## Relations
 Foreign-Key = *_id_*
